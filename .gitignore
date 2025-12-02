@@ -208,5 +208,5 @@ __marimo__/
 
 
 ## data files are large sizes, to be ignored
-./data
-./data/*
+data
+data/*
