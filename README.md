@@ -12,7 +12,7 @@ AIT582-DL1/
 │  ├─ raw/          # your JSON drops here (read-only)
 │  └─ cleaned/      # cleaned CSV/Parquet outputs
 ├─ notebooks/
-│  ├─ 01_ingest_quality.ipynb    # load + schema + missingness + save cleaned
+│  ├─ 00_ingest_quality.ipynb    # load + schema + missingness + save cleaned
 │  ├─ 02_validate_eda.ipynb      # recreate/confirm Checkpoint-1 plots
 │  └─ 03_modeling.ipynb          # H2 stats + H3 classification & tuning
 ├─ src/
@@ -23,3 +23,4 @@ AIT582-DL1/
 └─ README.md
 
 ```
+
