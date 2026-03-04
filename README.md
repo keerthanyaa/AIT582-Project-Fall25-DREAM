@@ -1,6 +1,6 @@
 # AIT582-Project-Fall25-DREAM
 
-Metadata Analytics project : for the term Fall 2025. 
+Metadata analytics for Disaster Recovery — Fall 2025
 
 
 DREAM : Disaster Recovery and Emergency Allocation using Metadata
