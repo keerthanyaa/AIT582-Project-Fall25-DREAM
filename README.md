@@ -1,4 +1,5 @@
-# AIT582-Metad-PROJ-Fall25
+# AIT582-Project-Fall25-DREAM
+
 Metadata Analytics project : for the term Fall 2025. 
 
 
